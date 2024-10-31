@@ -11,6 +11,7 @@ Lightning Rails is the result of my combined love for Marc Lou's Shipfast Boiler
 The development process was straightforward. I reviewed my projects from the past four years and gathered the most common features and components into a powerful, easy-to-use Ruby on Rails boilerplate. Lightning Rails is designed to take care of repetitive tasks and provides a 100% free tech stack, so you can build MVPs quickly and efficiently.
 
 [Checkout the Documentation](https://docs.lightningrails.com/)
+[Get a lifetime license and build as many apps as you want.](https://lightningrails.com)
 
 ## Features
 
