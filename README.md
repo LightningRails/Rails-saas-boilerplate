@@ -1,4 +1,4 @@
-<img src="[https://lightningrails.com/assets/logo-3d4a3213987c59701dc127c7d3e893b55b44df382ae52c48d3c6cf6d21dace7d.png](https://lightningrails.com/assets/logo-beebcd6db8203268687d907b2c1da5d577daa70586048accfabfccabd6cb3e23.png)" alt="Logo" width="90" height="90">
+<img src="https://lightningrails.com/assets/logo-beebcd6db8203268687d907b2c1da5d577daa70586048accfabfccabd6cb3e23.png" alt="Logo" width="90" height="90">
 
 # Lightning Rails
 
