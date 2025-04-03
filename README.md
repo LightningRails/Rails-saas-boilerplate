@@ -4,7 +4,7 @@
 
 Hello, Developers!
 
-I'm Dani, and I'm excited to share this latest project as it has been a life changer for me and many other of test RoR users!
+I'm Dani, and I'm excited to share this latest project as it has been a life changer for me and many other of RoR users!
 
 Lightning Rails is the result of my combined love for Marc Lou's Shipfast Boilerplate and Ruby on Rails. I couldn’t find a Rails boilerplate tailored specifically for Indie Makers, so I built my own.
 
@@ -22,6 +22,7 @@ With a `git clone lightningrails`, you’ll have access to:
 - 👩‍💻 **User authentication** and pages
 - 💸 **Stripe payment gateway integration**
 - 📊 **Admin dashboards** for managing your app
+- 🤖 AI integrations
 - 📱 **Fully responsive** design for all device types
 - 🪄 **Magic Link Signups** and **Github OAuth**
 - 📄 **SEO tags** for improved visibility
@@ -33,8 +34,8 @@ With a `git clone lightningrails`, you’ll have access to:
 ## Community & Feedback
 ![Positive reviews](https://res.cloudinary.com/therainycloud/image/upload/v1730358090/production/lightning_rails_testimonial_snu2rh.png)
 
-I’ve been actively improving the code and documentation over the past month, thanks to feedback from more than 100 early users. 
+I’ve been actively improving the code and documentation over the past month, thanks to feedback from more than 200 RoR developers. 
 
-Check out the project website at [https://lightningrails.com](https://lightningrails.com) and let me know what you think. Your feedback is invaluable as I continue to refine Lightning Rails for the developer community.
+Check out the project website at [https://lightningrails.com](https://lightningrails.com/?ref="boilerplate-repo") and let me know what you think. Your feedback is invaluable as I continue to refine Lightning Rails for the developer community.
 
 Happy coding!
